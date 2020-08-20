@@ -1,4 +1,4 @@
-# PyTorch Modules you need for this lab
+#Importing Libraries
 
 from torch.utils.data import Dataset, DataLoader
 
@@ -11,7 +11,7 @@ torch.manual_seed(0)
 import pandas as pd
 import numpy as np
 
-# Other non-PyTorch Modules
+
 
 from matplotlib.pyplot import imshow
 import matplotlib.pylab as plt
